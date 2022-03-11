@@ -1,6 +1,6 @@
 # gabriel-pickard-on-dungeondraft
 
-** If you are looking for the actual assets of Gabriel Pickard, you will not find them here **
+***If you are looking for the actual assets of Gabriel Pickard, you will not find them here***
 
 Having been a long time fan of Gabriel Pickard i have acquired numerous of his asset packs. 
 Up till now i have assembled many battlemaps in inkscape and GIMP. 
